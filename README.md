@@ -1,16 +1,18 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=1EF718&random=false&width=435&lines=Hi.+I'm+Amelia)](https://git.io/typing-svg)
+<h2><a href=>Portfolio</a></h2>
 
-<!--
-**gurska10028/gurska10028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭Backend Engineer with a Focus on AI/ML<br>🎓 5th Semester Computer Science Student<br>⚡Passionate about Artificial Intelligence
+<br>
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amelia-g%C3%B3rska-82b8b1279/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Technologies:
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
+
+
+# 🎯 Goals for 2024:
+
+
